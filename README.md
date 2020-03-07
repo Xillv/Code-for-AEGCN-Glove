@@ -3,8 +3,8 @@ Code for [applied sciences](https://www.mdpi.com/) paper "[Targeted Sentiment Cl
 #Model
 
 # Requirements
-* Python 3.6
-* PyTorch 1.0.0
+* Python >= 3.6
+* pytorch >= 1.0
 * SpaCy 2.0.18
 * numpy 1.15.4
 # Usage
