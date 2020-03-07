@@ -23,7 +23,7 @@ If you find this repository is helpful to you, please kindly cite our paper and 
 ```
 @article{xiao2020targeted,
     title={Targeted Sentiment Classification Based on Attentional Encoding and Graph Convolutional Networks},
-    author={Xiao, Luwei and Hu, Xiaohui and Chen, Yinong and Xue, Yun and Gu, Donghong and Chen, Bingliang and Tao, Zhang},
+    author={Xiao, Luwei and Hu, Xiaohui and Chen, Yinong and Xue, Yun and Gu, Donghong and Chen, Bingliang and Zhang, Tao},
     journal={Applied Sciences},
     volume={10},
     number={3},
