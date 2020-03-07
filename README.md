@@ -33,4 +33,4 @@ If you find this repository is helpful to you, please kindly cite our paper and 
 }
 ```
 # Acknowledgement
-This work is mainly based on the repositories of [ASGCN](https://github.com/GeneZC/ASGCN) and [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch).Thanks a million to anyone who assist to this work and their valuable devotion!
+This work is mainly based on the repositories of [ASGCN](https://github.com/GeneZC/ASGCN) and [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch).Thanks a million to anyone who assists with this work and their valuable devotion!
