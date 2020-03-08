@@ -8,6 +8,7 @@ Overall architecture of AEGCN ![AEGCN](https://github.com/Xillv/Code-for-AEGCN-G
 * pytorch >= 1.0
 * SpaCy 2.0.18
 * numpy 1.15.4
+* sklearn
 # Usage
 * First install SpaCy package and language models with
 ```
