@@ -1,6 +1,7 @@
 # Code-for-AEGCN-Glove
 Code for [applied sciences](https://www.mdpi.com/) paper "[Targeted Sentiment Classification Based on Attentional Encoding and Graph Convolutional Networks](https://www.mdpi.com/2076-3417/10/3/957)"
-#Model
+# Model
+Overall model of ![AEGCN](https://github.com/Xillv/Code-for-AEGCN-Glove/blob/master/main%20model/AEGCN.png)
 
 # Requirements
 * Python >= 3.6
